@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Patnaik
-- 👀 I’m interested in Data science, Machine Learning and Deep Learning.
-- 🌱 I’m currently pursuing by btech in Computer Science from Manipal Institute of technology, Manipal
+- 👀 I’m interested in Full stack web development.
+- 🌱 I’m currently working as a Software Engineer in Cloudera Data Platform Pvt Ltd in the Data Engineering team.
 - 📫 How to reach me : email - pratik.patnaik007@gmail.com
 
 <!---
